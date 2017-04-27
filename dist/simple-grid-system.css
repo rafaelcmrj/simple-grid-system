@@ -1,0 +1,343 @@
+.flex-100 {
+  flex: 100;
+}
+.flex-99 {
+  flex: 99;
+}
+.flex-98 {
+  flex: 98;
+}
+.flex-97 {
+  flex: 97;
+}
+.flex-96 {
+  flex: 96;
+}
+.flex-95 {
+  flex: 95;
+}
+.flex-94 {
+  flex: 94;
+}
+.flex-93 {
+  flex: 93;
+}
+.flex-92 {
+  flex: 92;
+}
+.flex-91 {
+  flex: 91;
+}
+.flex-90 {
+  flex: 90;
+}
+.flex-89 {
+  flex: 89;
+}
+.flex-88 {
+  flex: 88;
+}
+.flex-87 {
+  flex: 87;
+}
+.flex-86 {
+  flex: 86;
+}
+.flex-85 {
+  flex: 85;
+}
+.flex-84 {
+  flex: 84;
+}
+.flex-83 {
+  flex: 83;
+}
+.flex-82 {
+  flex: 82;
+}
+.flex-81 {
+  flex: 81;
+}
+.flex-80 {
+  flex: 80;
+}
+.flex-79 {
+  flex: 79;
+}
+.flex-78 {
+  flex: 78;
+}
+.flex-77 {
+  flex: 77;
+}
+.flex-76 {
+  flex: 76;
+}
+.flex-75 {
+  flex: 75;
+}
+.flex-74 {
+  flex: 74;
+}
+.flex-73 {
+  flex: 73;
+}
+.flex-72 {
+  flex: 72;
+}
+.flex-71 {
+  flex: 71;
+}
+.flex-70 {
+  flex: 70;
+}
+.flex-69 {
+  flex: 69;
+}
+.flex-68 {
+  flex: 68;
+}
+.flex-67 {
+  flex: 67;
+}
+.flex-66 {
+  flex: 66;
+}
+.flex-65 {
+  flex: 65;
+}
+.flex-64 {
+  flex: 64;
+}
+.flex-63 {
+  flex: 63;
+}
+.flex-62 {
+  flex: 62;
+}
+.flex-61 {
+  flex: 61;
+}
+.flex-60 {
+  flex: 60;
+}
+.flex-59 {
+  flex: 59;
+}
+.flex-58 {
+  flex: 58;
+}
+.flex-57 {
+  flex: 57;
+}
+.flex-56 {
+  flex: 56;
+}
+.flex-55 {
+  flex: 55;
+}
+.flex-54 {
+  flex: 54;
+}
+.flex-53 {
+  flex: 53;
+}
+.flex-52 {
+  flex: 52;
+}
+.flex-51 {
+  flex: 51;
+}
+.flex-50 {
+  flex: 50;
+}
+.flex-49 {
+  flex: 49;
+}
+.flex-48 {
+  flex: 48;
+}
+.flex-47 {
+  flex: 47;
+}
+.flex-46 {
+  flex: 46;
+}
+.flex-45 {
+  flex: 45;
+}
+.flex-44 {
+  flex: 44;
+}
+.flex-43 {
+  flex: 43;
+}
+.flex-42 {
+  flex: 42;
+}
+.flex-41 {
+  flex: 41;
+}
+.flex-40 {
+  flex: 40;
+}
+.flex-39 {
+  flex: 39;
+}
+.flex-38 {
+  flex: 38;
+}
+.flex-37 {
+  flex: 37;
+}
+.flex-36 {
+  flex: 36;
+}
+.flex-35 {
+  flex: 35;
+}
+.flex-34 {
+  flex: 34;
+}
+.flex-33 {
+  flex: 33;
+}
+.flex-32 {
+  flex: 32;
+}
+.flex-31 {
+  flex: 31;
+}
+.flex-30 {
+  flex: 30;
+}
+.flex-29 {
+  flex: 29;
+}
+.flex-28 {
+  flex: 28;
+}
+.flex-27 {
+  flex: 27;
+}
+.flex-26 {
+  flex: 26;
+}
+.flex-25 {
+  flex: 25;
+}
+.flex-24 {
+  flex: 24;
+}
+.flex-23 {
+  flex: 23;
+}
+.flex-22 {
+  flex: 22;
+}
+.flex-21 {
+  flex: 21;
+}
+.flex-20 {
+  flex: 20;
+}
+.flex-19 {
+  flex: 19;
+}
+.flex-18 {
+  flex: 18;
+}
+.flex-17 {
+  flex: 17;
+}
+.flex-16 {
+  flex: 16;
+}
+.flex-15 {
+  flex: 15;
+}
+.flex-14 {
+  flex: 14;
+}
+.flex-13 {
+  flex: 13;
+}
+.flex-12 {
+  flex: 12;
+}
+.flex-11 {
+  flex: 11;
+}
+.flex-10 {
+  flex: 10;
+}
+.flex-9 {
+  flex: 9;
+}
+.flex-8 {
+  flex: 8;
+}
+.flex-7 {
+  flex: 7;
+}
+.flex-6 {
+  flex: 6;
+}
+.flex-5 {
+  flex: 5;
+}
+.flex-4 {
+  flex: 4;
+}
+.flex-3 {
+  flex: 3;
+}
+.flex-2 {
+  flex: 2;
+}
+.flex-1 {
+  flex: 1;
+}
+.flex-0 {
+  flex: 0;
+}
+.flex {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+}
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.row {
+  margin-left: -15px;
+  margin-right: -15px;
+}
+@media only screen and (max-width: 380px) {
+  .container {
+    max-width: 320px;
+  }
+}
+@media only screen and (min-width: 381px) and (max-width: 529px) {
+  .container {
+    max-width: 480px;
+  }
+}
+@media only screen and (min-width: 530px) and (max-width: 949px) {
+  .container {
+    max-width: 780px;
+  }
+}
+@media only screen and (min-width: 950px) and (max-width: 1128px) {
+  .container {
+    max-width: 980px;
+  }
+}
+@media only screen and (min-width: 1129px) {
+  .container {
+    max-width: 1110px;
+  }
+}

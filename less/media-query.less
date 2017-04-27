@@ -1,0 +1,40 @@
+@xs-min: (@xxs-size + 1);
+@sm-min: (@xs-size + 1);
+@md-min: (@sm-size + 1);
+@lg-min: (@md-size + 1);
+
+@xxs:  ~'only screen and (max-width: @{xxs-size}px)';
+@xs:   ~'only screen and (min-width: @{xs-min}px) and (max-width: @{xs-size}px)';
+@sm:   ~'only screen and (min-width: @{sm-min}px) and (max-width: @{sm-size}px)';
+@md:   ~'only screen and (min-width: @{md-min}px) and (max-width: @{md-size}px)';
+@lg:   ~'only screen and (min-width: @{lg-min}px)';
+
+@media @xxs {
+    .container {
+        max-width: ~'@{xxs-container}px';
+    }
+}
+
+@media @xs {
+    .container {
+        max-width: ~'@{xs-container}px';
+    }
+}
+
+@media @sm {
+    .container {
+        max-width: ~'@{sm-container}px';
+    }
+}
+
+@media @md {
+    .container {
+        max-width: ~'@{md-container}px';
+    }
+}
+
+@media @lg {
+    .container {
+        max-width: ~'@{lg-container}px';
+    }
+}

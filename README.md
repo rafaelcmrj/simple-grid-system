@@ -1,5 +1,5 @@
 # Simple Grid System
-This is a lightweight, responsive and modern grid system based in flexbox.
+This is a lightweight (~2kb), responsive and modern grid system based in flexbox.
 
 ### Getting Started
 

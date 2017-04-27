@@ -1,5 +1,9 @@
 .makeGrid(@i) when (@i >= 0) {
-    .flex-@{i} { flex: ~'@{i}'; }
+    .flex-@{i} {
+        -webkit-box-flex: ~'@{i}';
+        -moz-box-flex: ~'@{i}';
+        flex: ~'@{i}';
+    }
 
     .makeGrid(@i - 1);
 }
